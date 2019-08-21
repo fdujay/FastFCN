@@ -44,6 +44,7 @@ Contact: Hui-Kai Wu (huikaiwu@icloud.com)
 ```
 python scripts/prepare_pcontext.py
 cd experiments/segmentation
+#https://codalabuser.blob.core.windows.net/public/trainval_merged.json
 ```
 | Method | Backbone | mIoU | FPS | Model | Scripts |
 |:----|:----|:---:|:---:|:---:|:---:|
